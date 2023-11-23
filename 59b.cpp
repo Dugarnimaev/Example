@@ -7,7 +7,7 @@ using namespace std;
 
 int main()
 {
-    const float r1 = 0.5, R = 1;
+    const float r1 = 0.4, R = 1;
     float a, x, y;
     cout << "Input X: " << endl;
     cin >> x;
