@@ -8,7 +8,7 @@ using namespace std;
 int main()
 {
     const float r1 = 0.4, R = 1;
-    float a, x, y; int n, k;
+    float a, x, y;
     cout << "Input X: " << endl;
     cin >> x;
     cout << "Input Y: " << endl;
